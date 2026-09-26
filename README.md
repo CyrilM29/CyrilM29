@@ -3,6 +3,8 @@
 Test automation engineer in Brest, France. I build open-source tooling around
 Robot Framework, SAP and AI agents, mostly on evenings and weekends.
 
+You can reach me on [LinkedIn](https://www.linkedin.com/in/cyril-montiel).
+
 ## Projects
 
 | Repo | What it is |
